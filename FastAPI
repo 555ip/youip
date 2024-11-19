@@ -1,0 +1,10 @@
+{
+  "source_code": "https://555ip.github.io/youip/FastAPI",
+  "message": "Welcome to the FAST API!",
+  "endpoints": {
+    "/youtube/channel/{id}.m3u8": "Get the HLS URL for a YouTube channel live stream. Replace {id} with the channel ID.",
+    "/youtube/video/{id}.m3u8": "Get the HLS URL for a YouTube video. Replace {id} with the video ID.",
+    "/youtube/channel/{id}.json": "Get the JSON data for a YouTube channel live stream. Replace {id} with the channel ID.",
+    "/youtube/video/{id}.json": "Get the JSON data for a YouTube video. Replace {id} with the video ID."
+  }
+}
